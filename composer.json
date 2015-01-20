@@ -1,0 +1,20 @@
+{
+  "name": "mipxtx/htmlparser",
+  "description": "html/xml parser in pure php",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michail Buylov",
+      "email": "mipxtx@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "HTMLParser": "lib/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  }
+}
